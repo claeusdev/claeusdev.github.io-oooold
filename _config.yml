@@ -8,7 +8,7 @@ twitter_username: nana__manu
 github_username:  claeusdev
 
 # Build settings
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "light"
   back_home_text: ".." # customize text for homepage link in post layout
