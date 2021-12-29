@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title }}</h1>
+  {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+  {%-endif-%}
+</header>
+
+Hi I'm Nana. I am a Software Engineer currently working at Andela. Before Andela, i built various kinds of software applications from finance, ecommerce, payment systems and SAAS web applications.
+I write about programming, what i am currently learning and building.
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}
