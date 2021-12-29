@@ -9,6 +9,7 @@ github_username:  claeusdev
 
 # Build settings
 remote_theme: no-style-please
+theme: no-style-theme
 theme_config:
   appearance: "light"
   back_home_text: ".." # customize text for homepage link in post layout

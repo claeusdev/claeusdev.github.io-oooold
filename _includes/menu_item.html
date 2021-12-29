@@ -8,14 +8,14 @@
     {%- endif -%}
     </li>
 
-    {%-if item.post_list-%}
+    {%-if item.posts-%}
       {%
-        include post_list.html
-          category=item.post_list.category
-          limit=item.post_list.limit
-          show_more=item.post_list.show_more
-          show_more_text=item.post_list.show_more_text
-          show_more_url=item.post_list.show_more_url
+        include posts.html
+          category=item.posts.category
+          limit=item.posts.limit
+          show_more=item.posts.show_more
+          show_more_text=item.post.show_more_text
+          show_more_url=item.post.show_more_url
      -%}
     {%-endif-%}
 
