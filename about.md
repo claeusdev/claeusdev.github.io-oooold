@@ -4,15 +4,35 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="mt5">
+  <p class="f4 tl measure-narrow lh-copy">
+  Hey 👋🏿, I’m Nana. I’m a Software Engineer currently living in Accra, 
+  Ghana. Currently, I work at Andela.</p>
+</div>
+<div class="mt5">
+  <h1 class="b dib w-auto highlight-header">Experience</h1>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+  <div class="mt4">
+    <span class="b mr2"><a href="https://www.petratrust.com" class="midnight-blue link hover-highlight-link">Petra Trust</a></span>
+    <span>December 2019 – now</span>
+    <p>Software Engineer - Full Stack (Ruby, TypeScript, PostgreSQL, React)</p>
+  </div>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+  <div class="mt4">
+    <span class="b mr2"><a href="https://www.afradio.co" class="midnight-blue link hover-highlight-link">AFRadio</a></span>
+    <span>March 2019 – August 2019</span>
+    <p>Software Engineer - Front-end (React) </p>
+  </div>
 
+  <div class="mt4">
+    <span class="b mr2"><a href="https://www.vendyads.com" class="midnight-blue link hover-highlight-link">VendyAds</a></span>
+    <span>February 2018 – February 2019</span>
+    <p>Software Engineer - Front-end (HTML, CSS, SASS, Rails, jQuery) </p>
+  </div>
 
-[jekyll-organization]: https://github.com/jekyll
+  <div class="mt4">
+    <span class="b mr2">Inotribe</span>
+    <span>June 2016 – December 2017</span>
+    <p>Software Developer</p>
+  </div>
+</div>
