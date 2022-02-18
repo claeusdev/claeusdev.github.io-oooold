@@ -1,15 +1,5 @@
 entries:
-    - title: thoughts
+    - title: Recent Posts
       posts: true
 
-    - title: about me
-      url: "/about"
-      entries:
-        - title: email
-          url: mailto:nkwadwo06@gmail.com
-        - title: github
-          url: http://github.com/claeusdev/
-        - title: twitter
-          url: http://twitter.com/nana__manu/
-
-
+    
