@@ -1,8 +1,8 @@
 <ul>
   {%-for item in include.collection-%}
-    <li>
+    <li class="f4">
     {%- if item.url -%}
-      <a href="{{ item.url }}">{{ item.title }}</a>
+      <a class="f4" href="{{ item.url }}">{{ item.title }}</a>
     {%- else -%}
       {{ item.title }}
     {%- endif -%}

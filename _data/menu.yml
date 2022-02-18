@@ -1,6 +1,6 @@
 entries:
     - title: thoughts
-      post_list: true
+      posts: true
 
     - title: about me
       url: "/about"

@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
-  <body a="{{ site.theme_config.appearance | default: "auto" }}">
-    <main class="page-content" aria-label="Content">
-      <div class="w">
+  <body class="mw5 mw8-ns center" a="{{ site.theme_config.appearance | default: "auto" }}">
+      <header class="measure-wide-ns pv2 pv3-ns ph3 ph5-ns">
+      <img src="http://tachyons.io/img/logo.jpg" class="br-100 pa1 ba b--black-10 h3 w3" alt="avatar">
+      <h1 class="f5 f4-ns fw6 mid-gray">{{ site.title }}</h1>
+    </header>
+    <main class="lh-copy ph3 ph5-ns">
+      <div class="measure-wide-ns" aria-label="Content">
         {{ content }}
       </div>
     </main>

@@ -4,35 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<div class="mt5">
-  <p class="f4 tl measure-narrow lh-copy">
-  Hey 👋🏿, I’m Nana. I’m a Software Engineer currently living in Accra, 
-  Ghana. Currently, I work at Andela.</p>
-</div>
-<div class="mt5">
-  <h1 class="b dib w-auto highlight-header">Experience</h1>
 
-  <div class="mt4">
-    <span class="b mr2"><a href="https://www.petratrust.com" class="midnight-blue link hover-highlight-link">Petra Trust</a></span>
-    <span>December 2019 – now</span>
-    <p>Software Engineer - Full Stack (Ruby, TypeScript, PostgreSQL, React)</p>
-  </div>
+<article class="f4">
+<p class="f4">Born and raised in Accra, Ghana. Studied Computing Science at Staffordshire University and Coventry University. I've worked for Petra Trust, Geowox, Qoncept and many others. Currently, i work as a software engineering consultant at Andela.</p>
+<p class="f4 pt2">I'm full-stack developer. I'm at home writing REST APIs in Ruby, Go or Java. On the other side, you'll find me building accessible and performant React/Ember applications that sit on top of those APIs. Most of all, I'm very excited about building software that makes users happy. I have been also known to like using boring technology
+</p>
+</article>
 
-  <div class="mt4">
-    <span class="b mr2"><a href="https://www.afradio.co" class="midnight-blue link hover-highlight-link">AFRadio</a></span>
-    <span>March 2019 – August 2019</span>
-    <p>Software Engineer - Front-end (React) </p>
-  </div>
-
-  <div class="mt4">
-    <span class="b mr2"><a href="https://www.vendyads.com" class="midnight-blue link hover-highlight-link">VendyAds</a></span>
-    <span>February 2018 – February 2019</span>
-    <p>Software Engineer - Front-end (HTML, CSS, SASS, Rails, jQuery) </p>
-  </div>
-
-  <div class="mt4">
-    <span class="b mr2">Inotribe</span>
-    <span>June 2016 – December 2017</span>
-    <p>Software Developer</p>
-  </div>
-</div>
